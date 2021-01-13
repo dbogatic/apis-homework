@@ -1,4 +1,4 @@
-# Unit 5 - Financial Planning
+# Financial Planning
 
 ![Financial Planner](Images/financial-planner.png)
 
@@ -18,9 +18,9 @@ The second tool will be a retirement planning tool that will use the Alpaca API 
 
 ### Files
 
-* [Personal Finance Planner HTML (instead of loading the jupyter notebook)]()
+* [Personal Financial Planner HTML](https://dbogatic.github.io/apis-homework/financial-planner.html) (instead of loading the jupyter notebook)
 
-* [Personal Finance Planner notebook](financial-planner.ipynb)
+* [Personal Financial Planner notebook](financial-planner.ipynb)
 
 * [MCForecastTools toolkit](MCForecastTools.py)
 
